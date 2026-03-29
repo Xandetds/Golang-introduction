@@ -1,0 +1,10 @@
+2026/03/29 17:28:35 error: open /path/to/config.toml: O sistema não pode encontrar o caminho especificado.
+cant open configuration file
+main.readConfig
+	C:/Users/alexa/Golang-introduction/errors/errors.go:20
+main.main
+	C:/Users/alexa/Golang-introduction/errors/errors.go:42
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:290
+runtime.goexit
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1771
